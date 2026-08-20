@@ -9,7 +9,9 @@ preview: /assets/glorgo_thumbnail.jpg
 |Software            | Unity, JetBrains Rider     |
 |Languages           | C#                       |
 
-I am working as part of a 4 person engineering team to develop the incremental worker-management game *Glorgo's Microplastics Mine*. 
+I worked as part of a 4 person engineering team to develop the incremental worker-management game *Glorgo's Microplastics Mine*. We released on [Steam](https://store.steampowered.com/app/4246790/Glorgos_Microplastics_Mine)!
+
+https://store.steampowered.com/app/4246790/Glorgos_Microplastics_Mine/
 
 Achievements:
 
