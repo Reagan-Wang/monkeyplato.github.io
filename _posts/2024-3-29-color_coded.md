@@ -12,7 +12,7 @@ preview: /assets/cc_thumbnail.png
 
 As the capstone of a semester-long game prototyping class, I took one of the most promising prototypes I had worked on and collaborated with an expanded group to develop it.
 
-[*Color Coded*] (https://reagang.itch.io/colour-coded-a-one-button-game) is a one-button puzzle game in which the player attempts to get a ball to their destination by doing nothing other than toggling environmental objects on/off. 
+[*Color Coded*](https://reagang.itch.io/colour-coded-a-one-button-game) is a one-button puzzle game in which the player attempts to get a ball to their destination by doing nothing other than toggling environmental objects on/off. 
 
 Skills/Achievements:
 
